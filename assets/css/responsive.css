@@ -1,0 +1,32 @@
+@media (max-width: 375px) {
+    .container {
+      max-width: 100%;
+    }
+  
+    .up {
+      height: 120px;
+      width: 100%;
+    }
+  
+    .img {
+      width: 80px;
+      height: 80px;
+      margin: -40px auto -20px auto;
+    }
+  
+    .info {
+      margin-top: 36px;
+      margin-bottom: 24px;
+    }
+  
+    .active-container {
+      padding-top: 6px;
+      padding-right: 20px;
+      padding-left: 20px;
+      margin-top: 12px;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+  }
+  
